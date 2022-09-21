@@ -1,0 +1,29 @@
+li {
+    background-color: rgba(62, 120, 175, 0.415);
+    list-style-type: none;
+    margin-top: 10px;
+    width: 250px;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: justify;
+    
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+input {
+    display: inline-block;
+    margin-left: 40px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+h1 {
+    margin-left: 40px;
+    margin-top: 5px;
+}
